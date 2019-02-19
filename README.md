@@ -70,4 +70,4 @@ Some sample images and detected characters are given below.
 
 [6] En.wikipedia.org. (2019). Connectionist temporal classification. [online] Available at: https://en.wikipedia.org/wiki/Connectionist_temporal_classification [Accessed 26 Jan. 2019].
 
-[7] Zhang, C. (2019). Keras model to recognize text with variable length. [online] www.dlology.com. Available at: https://goo.gl/zpe13s[Accessed 26 Jan. 2019].
+[7] Zhang, C. (2019). Keras model to recognize text with variable length. [online] www.dlology.com. Available at: https://goo.gl/zpe13s [Accessed 26 Jan. 2019].
