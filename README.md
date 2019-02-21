@@ -2,7 +2,7 @@
 #### OCR using Deeplearning
 
 ### Introduction
-Recognition of texts from images and videos having numerous applications in different domains like banking, legal, healthcare, safety etc[1]. This technique commonly known as Optical Character Recognition[2] or OCR. Through this project we are planning to implement detection and recognition of the character sequences from images.
+Recognition of texts from images and videos having numerous applications in different domains like banking, legal, healthcare, safety etc[1]. This technique commonly known as Optical Character Recognition[2] or OCR. Through this project we implement detection and recognition of the character sequences from images.
 
 ### Method
 An overview of implemented method is illustrated in the figure below.
